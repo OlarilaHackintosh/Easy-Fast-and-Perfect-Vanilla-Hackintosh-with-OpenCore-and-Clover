@@ -1,4 +1,4 @@
-# Easy, Fast and Perfect Hackintosh
+# Easy, Fast and Perfect Vanilla Hackintosh
 
 https://www.olarila.com/topic/20908-easy-fast-and-perfect-vanilla-hackintosh/
 
